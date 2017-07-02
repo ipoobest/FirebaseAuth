@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669662691428",
+    "firebase_url": "https://logindemo-b410a.firebaseio.com",
+    "project_id": "logindemo-b410a",
+    "storage_bucket": "logindemo-b410a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669662691428:android:988b5c50d6920836",
+        "android_client_info": {
+          "package_name": "com.admission.jpoobest.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669662691428-fvietqevur5s40jb0lsftvv69s4lc5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdyExDdPZ1K6P5mvSvUVpTg1xNFHDlmk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
